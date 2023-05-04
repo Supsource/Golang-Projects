@@ -1,10 +1,10 @@
 # Go CRUD App with Gorilla Mux
 This is a simple CRUD (Create, Read, Update, Delete) web application built with Go and the Gorilla Mux router. The application allows you to perform CRUD operations on a collection of movie data, including the movie's ID, ISBN, title, and director information.
 ## Requirements
-* Go (version 1.16 or higher)
-* Gorilla Mux (version 1.8.0 or higher)
+* [Go](https://go.dev/dl/) (version 1.16 or higher)
+* [Gorilla Mux](https://github.com/gorilla/mux) (version 1.8.0 or higher)
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/[your-username]/crud-movies-app.git`
+1. Clone the repository: `git clone https://github.com/Supsource/Golang-Projects/tree/main/CRUD-Movies-App`
 2. Navigate to the project directory: `cd CRUD-Movies-App`
 3. Install the Gorilla Mux router: `go get -u github.com/gorilla/mux`
 4. Run the application: `go run main.go`
